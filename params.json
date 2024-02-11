@@ -1,0 +1,14 @@
+{
+
+    "captchaImageReponse" : {
+        "min" : 2,
+        "max" : 3
+    },
+
+    "captchaImages" : {
+        "nombre" : 8
+    },
+
+    "widthImages" : ["width: 100px;", "width: 150px;", "width: 180px;", "width: 200px;"]
+    
+}
